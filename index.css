@@ -1,0 +1,13 @@
+#heading
+{
+    color:pink;
+}
+
+#child
+{
+background-color: aquamarine;
+}
+#parent
+{
+    background-color: blueviolet;
+}
